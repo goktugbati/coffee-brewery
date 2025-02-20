@@ -1,4 +1,4 @@
-package com.dataflow.coffeeservice.model;
+package com.dataflow.coffeeservice.web.model;
 
 import org.springframework.data.domain.PageImpl;
 import org.springframework.data.domain.Pageable;

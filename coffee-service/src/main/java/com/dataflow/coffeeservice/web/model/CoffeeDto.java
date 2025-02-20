@@ -1,4 +1,4 @@
-package com.dataflow.coffeeservice.model;
+package com.dataflow.coffeeservice.web.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
