@@ -1,13 +1,13 @@
-package com.dataflow.coffeemicroservice;
+package com.dataflow.coffeeservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CoffeeMicroserviceApplicationTests {
+class CoffeeServiceApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
